@@ -1,3 +1,7 @@
+Hi there 👋
+I'm from Uzbekistan and I live in South Korea now. I'm a MERN full stack developer. I really enjoy learning languages and frame
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
