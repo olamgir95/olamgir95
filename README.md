@@ -1,16 +1,13 @@
-### Hi there 👋
+olamgir95/README.md
+Hi there 👋
+I'm a MERN STACK Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
 
-<!--
-**olamgir95/olamgir95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+♥️ I enjoy making people laugh and coding.
+📫 How to reach me: email or instagram
+💬 Ask me about anything
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+Youtube Badge Instagram Badge Facebook Badge Linkedin Badge Portfolio Badge
+![Alt text](image link)
+Things I code with
+HTML5 Badge CSS3 Badge Javascript Badge React Badge Next.js Badge Redux Badge Vue Js TAILWIND CSS Badge Bootstrap Badge Git Badge Nodejs Badge Express.js Badge MongoDB Badge
