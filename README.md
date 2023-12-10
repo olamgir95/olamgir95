@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Olamgir Ollomurodov and I'm a MERN full stack developer, from Uzbekistan</p>
+<p align="left"> I'm a MERN full stack developer, from Uzbekistan and live in South Korea</p>
 
 ###
 
