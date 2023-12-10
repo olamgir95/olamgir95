@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ I have been creating software since I started working in IT, and I am always looking for ways to improve my craft..<br><br>📚 I’m currently learning how to create chatbots.<br><br>🎯 Goals: I am going to work in a tech company.<br><br>🎲 Fun fact: I can speak 4 languages.</p>
+<p align="left">✨ I have been creating software since I started working in IT.<br><br>📚  I am always looking for ways to improve my craft.<br><br>🎯 Goals: I am going to work in a tech company.<br><br>🎲 Fun fact: I can speak 4 languages.</p>
 
 ###
 
