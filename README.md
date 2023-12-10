@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br><br>📚 I'm currently learning ...<br><br>🎯 Goals: I am going to work in ...<br><br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since the dawn of time.<br><br>📚 I’m currently learning how to create chatbots.<br><br>🎯 Goals: I am going to work in a tech company.<br><br>🎲 Fun fact: I can play the guitar.</p>
 
 ###
 
@@ -19,7 +19,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
 
 ###
 
