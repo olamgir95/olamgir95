@@ -1,9 +1,9 @@
-Hi there 👋
-<h1 align="left">Hey 👋 What's up?</h1>
+
+<h1 align="left">Hey there 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Olamgir Ollomurodov and I'm a MERN full stack developer, from Uzbekistan</p>
 
 ###
 
@@ -11,11 +11,11 @@ Hi there 👋
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br><br>📚 I'm currently learning ...<br><br>🎯 Goals: I am going to work in ...<br><br>🎲 Fun fact: ...</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with </h2>
 
 ###
 
