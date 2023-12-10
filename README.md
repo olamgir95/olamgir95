@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left"> I'm a MERN full stack developer, from Uzbekistan and live in South Korea</p>
+<p align="left"> I'm a MERN  stack developer, from Uzbekistan and live in South Korea</p>
 
 ###
 
