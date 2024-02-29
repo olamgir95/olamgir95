@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey there 👋  I am is Olamgir Ollomurodov </h1>
+<h1 align="left">Hey there 👋  I am is Olamgir (Jonny) </h1>
 
 ###
 
@@ -51,6 +51,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
